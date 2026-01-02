@@ -1,0 +1,11 @@
+__turbopack_load_page_chunks__("/", [
+  "static/chunks/c8494_next_dist_compiled_a07bb641._.js",
+  "static/chunks/c8494_next_dist_shared_lib_b2acf1eb._.js",
+  "static/chunks/c8494_next_dist_client_879a5871._.js",
+  "static/chunks/c8494_next_dist_bbb21f56._.js",
+  "static/chunks/c8494_react-dom_1b5bf543._.js",
+  "static/chunks/c8494_062dfc23._.js",
+  "static/chunks/[root-of-the-server]__56e835a1._.js",
+  "static/chunks/Developer_alx_ProDev_FrontEnd_Week_6_alx-listing-app-detail_pages_index_2da965e7._.js",
+  "static/chunks/3c8da_alx_ProDev_FrontEnd_Week_6_alx-listing-app-detail_pages_index_f92e88f9._.js"
+])
